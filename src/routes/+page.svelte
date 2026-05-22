@@ -2,7 +2,7 @@
 	<section class="mx-auto max-w-6xl px-6 py-16 sm:px-8 lg:px-12">
 		<div class="space-y-8 text-center">
 			<p class="text-sm uppercase tracking-[0.35em] text-cyan-300">
-				Zerobit · 零位科技
+				零位科技 · ZEROBIT
 			</p>
 			<h1
 				class="text-3xl font-semibold tracking-tight text-white sm:text-4xl lg:text-5xl"
