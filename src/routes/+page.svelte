@@ -2,7 +2,7 @@
 	<section class="mx-auto max-w-6xl px-6 py-16 sm:px-8 lg:px-12">
 		<div class="space-y-8 text-center">
 			<p class="text-sm uppercase tracking-[0.35em] text-cyan-300">Zerobit · 零位科技</p>
-			<h1 class="text-4xl font-semibold tracking-tight text-white sm:text-5xl lg:text-6xl">
+			<h1 class="text-3xl font-semibold tracking-tight text-white sm:text-4xl lg:text-5xl">
 				领先的室内定位与物联网无线定位解决方案
 			</h1>
 			<p class="mx-auto max-w-3xl text-base leading-8 text-slate-300 sm:text-lg">
@@ -54,7 +54,7 @@
 		<section class="mt-16 rounded-3xl border border-slate-800 bg-slate-900/80 p-8 shadow-xl shadow-slate-900/20 backdrop-blur">
 			<div class="grid gap-8 lg:grid-cols-[1fr_280px] lg:items-center">
 				<div>
-					<h2 class="text-3xl font-semibold text-white">关于 Zerobit</h2>
+					<h2 class="text-3xl font-semibold text-white">关于我们</h2>
 					<p class="mt-4 max-w-2xl text-slate-300 leading-8">
 						零位科技专注于定位与物联网领域，致力于为行业客户构建高可靠、易部署的无线定位系统。我们将前沿算法、硬件与云端管理平台结合，帮助企业提升资产管理与运营效率。
 					</p>
@@ -63,8 +63,10 @@
 				<div class="rounded-3xl bg-slate-950/90 p-6 text-slate-200">
 					<p class="text-sm uppercase tracking-[0.35em] text-slate-400">联系我们</p>
 					<div class="mt-4 space-y-4 text-sm leading-7">
-						<p><strong>公司名：</strong>Zerobit / 零位科技</p>
+						<p><strong>公司名：</strong>深圳零位科技有限公司</p>
 						<p><strong>服务：</strong>定位系统、物联网解决方案、智能数据平台</p>
+						<p><strong>联系人：</strong>陈经理</p>
+						<p><strong>电话 / 微信：</strong>17858478080</p>
 						<p><strong>优势：</strong>高精度、低功耗、行业落地</p>
 					</div>
 				</div>
