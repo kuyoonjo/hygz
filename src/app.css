@@ -4,14 +4,7 @@ html, body {
   @apply bg-slate-950;
 }
 
-#dify-chatbot-bubble-button {
-  background-color: #1C64F2 !important;
-}
-#dify-chatbot-bubble-window {
-  width: 40rem !important;
-  height: 30rem !important;
-}
-
-iframe {
-  position: fixed!important;
+/* 锚点定位时为固定导航栏预留空间 */
+section[id] {
+  scroll-margin-top: 5rem;
 }
