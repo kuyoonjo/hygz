@@ -166,6 +166,7 @@
 	// 联系我们
 	const contacts = [
 		{ initial: '廖', name: '廖经理', phone: '134 8089 3703', tel: 'tel:13480893703', action: '方案咨询' },
+		{ initial: '李', name: '李经理', phone: '138 2881 4250', tel: 'tel:13828814250', action: '方案咨询' },
 		{ initial: '陈', name: '陈经理', phone: '178 5847 8080', tel: 'tel:17858478080', action: '商务合作' },
 		{ initial: '黄', name: '黄经理', phone: '181 2980 2506', tel: 'tel:18129802506', action: '商务合作' }
 	];
