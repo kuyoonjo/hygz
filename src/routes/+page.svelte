@@ -606,7 +606,7 @@
 				</div>
 			</div>
 			<div class="mt-8 border-t border-slate-800 pt-6 text-center text-xs text-slate-500">
-				<p>© 2026 深圳零位科技有限公司 保留所有权利</p>
+				<p>© 2026 深圳零位科技有限公司 保留所有 <a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2026067587号-2</a></p>
 			</div>
 		</div>
 	</footer>
